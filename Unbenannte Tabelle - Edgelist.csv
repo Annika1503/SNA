@@ -1,0 +1,7 @@
+from,to,strength,relation
+mp,ma,3,2
+mp,kk,3,1
+mp,el,3,1
+mp,ek,3,1
+ma,kk,3,1
+el,ek,3,1
