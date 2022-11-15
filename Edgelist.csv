@@ -1,0 +1,7 @@
+from,to,strength,relation,,,
+mp,ma,3,2,,,3 = starke bindung
+mp,kk,3,1,,,1 = befreundet
+mp,el,3,1,,,2 = verwandt 
+mp,ek,3,1,,,
+ma,kk,3,1,,,
+el,ek,3,1,,,
