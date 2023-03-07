@@ -1,3 +1,4 @@
+Knoten 1,Knoten 2,relation,year
 EvBu,5GJ,Teilnahme,2019
 AnTe,5SFL,Teilnahme,2021
 MaLo,5SFL,Teilnahme,2021
@@ -189,7 +190,7 @@ JuDi,B2,Teilnahme,2017
 AlCi,B2,Teilnahme,2017
 MiBo,B2,Teilnahme,2017
 Ma,B2,Teilnahme,2017
-Je ,B2,Teilnahme,2017
+Je,B2,Teilnahme,2017
 ReMa,B2,Teilnahme,2017
 ManSc,B2,Teilnahme,2017
 LuWi,B2,Teilnahme,2017
@@ -283,7 +284,7 @@ OlSa,DGD,Teilnahme,2021
 CaSp,DGPB,Teilnahme,2022
 SaNo,DGPBa,Teilnahme,2022
 EvBu,DGPBa,Teilnahme,2022
-NaKl,DOI,Teilnahme ,2019
+NaKl,DOI,Teilnahme,2019
 NaKl,DOI,Teilnahme,2019
 CaSp,DS,Teilnahme,2021
 EvBu,DS,Teilnahme,2019
@@ -314,7 +315,6 @@ EvBu,HOS,Teilnahme,2020
 JaUb,JTOU,Teilnahme,2020
 JaUb,K50667,Teilnahme,2020
 VaPr,K50667,Teilnahme,2020
-Knoten 1,Knoten 2,relation,year
 YeKo,KRS,Teilnahme,2022
 OlSa,KRS,Teilnahme,2020
 JoHa,KRS,Teilnahme,2020
